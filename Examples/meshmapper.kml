@@ -1,0 +1,6702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="green_line">
+<LineStyle>
+<color>ff30ad3e</color>
+<width>5</width>
+</LineStyle>
+</Style><Style id="yellow_line">
+<LineStyle>
+<color>7f00ffff</color>
+<width>5</width>
+</LineStyle>
+</Style><Style id="orange_line">
+<LineStyle>
+<color>ff006af2</color>
+<width>5</width>
+</LineStyle>
+</Style><Style id="red_line">
+<LineStyle>
+<color>ff0000ff</color>
+<width>5</width>
+</LineStyle>
+</Style><Folder>
+<name>wlan0</name>
+<Placemark>
+<name>1</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.69122 27.504473,-23.69122</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>2</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.69122 27.504494,-23.691217</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>3</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504494,-23.691217 27.504538,-23.691221</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>4</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504538,-23.691221 27.504585,-23.691225</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>5</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504585,-23.691225 27.504633,-23.691225</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>6</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504633,-23.691225 27.504683,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>7</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504683,-23.691223 27.504732,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>8</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504732,-23.691223 27.504753,-23.691229</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>9</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504753,-23.691229 27.504793,-23.69123</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>10</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504793,-23.69123 27.504835,-23.691242</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>11</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504835,-23.691242 27.504889,-23.691242</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>12</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504889,-23.691242 27.50494,-23.691244</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>13</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50494,-23.691244 27.50499,-23.691244</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>14</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50499,-23.691244 27.505028,-23.69125</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>15</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505028,-23.69125 27.50508,-23.691257</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>16</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50508,-23.691257 27.505125,-23.691265</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>17</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505125,-23.691265 27.50517,-23.691267</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>18</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50517,-23.691267 27.50522,-23.69127</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>19</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50522,-23.69127 27.505276,-23.691275</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>20</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505276,-23.691275 27.505316,-23.691275</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>21</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505316,-23.691275 27.505356,-23.691273</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>22</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505356,-23.691273 27.505402,-23.69127</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>23</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505402,-23.69127 27.505445,-23.691263</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>24</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505445,-23.691263 27.505487,-23.691246</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>25</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505487,-23.691246 27.505531,-23.691236</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>26</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505531,-23.691236 27.505577,-23.691229</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>27</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505577,-23.691229 27.505623,-23.691223</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>28</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505623,-23.691223 27.505669,-23.691217</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>29</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505669,-23.691217 27.505713,-23.691206</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>30</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505713,-23.691206 27.505756,-23.691202</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>31</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505756,-23.691202 27.505802,-23.691198</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>32</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505802,-23.691198 27.50585,-23.691195</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>33</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50585,-23.691195 27.505884,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>34</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505884,-23.691193 27.505945,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>35</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505945,-23.691193 27.505991,-23.69119</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>36</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505991,-23.69119 27.506039,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>37</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506039,-23.691193 27.506083,-23.691196</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>38</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506083,-23.691196 27.506117,-23.691198</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>39</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506117,-23.691198 27.506163,-23.691204</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>40</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506163,-23.691204 27.50621,-23.691208</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>41</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50621,-23.691208 27.506258,-23.691212</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>42</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506258,-23.691212 27.506308,-23.691214</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>43</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506308,-23.691214 27.506367,-23.691217</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>44</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506367,-23.691217 27.506413,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>45</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506413,-23.691221 27.50646,-23.69123</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>46</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50646,-23.69123 27.506506,-23.691235</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>47</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506506,-23.691235 27.506557,-23.691236</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>48</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506557,-23.691236 27.506609,-23.691242</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>49</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506609,-23.691242 27.506655,-23.691244</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>50</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506655,-23.691244 27.506702,-23.69125</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>51</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506702,-23.69125 27.506754,-23.691256</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>52</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506754,-23.691256 27.506802,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>53</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506802,-23.691257 27.506853,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>54</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506853,-23.691261 27.506903,-23.691265</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>55</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506903,-23.691265 27.50694,-23.691263</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>56</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50694,-23.691263 27.507006,-23.691267</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>57</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507006,-23.691267 27.507042,-23.691273</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>58</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507042,-23.691273 27.507103,-23.691277</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>59</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507103,-23.691277 27.507153,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>60</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507153,-23.69128 27.507202,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>61</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507202,-23.69128 27.507236,-23.691282</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>62</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507236,-23.691282 27.507288,-23.691284</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>63</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507288,-23.691284 27.507318,-23.691286</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>64</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507318,-23.691286 27.507362,-23.691288</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>65</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507362,-23.691288 27.507406,-23.69129</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>66</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507406,-23.69129 27.507442,-23.691292</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>67</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507442,-23.691292 27.507448,-23.691294</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>68</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691294 27.507448,-23.691296</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>69</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691296 27.507448,-23.691296</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>70</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691296 27.507444,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>71</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507444,-23.691294 27.507473,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>72</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507473,-23.691298 27.507519,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>73</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507519,-23.6913 27.507565,-23.691303</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>74</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507565,-23.691303 27.507612,-23.691305</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>75</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507612,-23.691305 27.507662,-23.691307</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>76</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507662,-23.691307 27.50771,-23.691315</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>77</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50771,-23.691315 27.50776,-23.691322</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>78</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50776,-23.691322 27.507809,-23.691322</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>79</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507809,-23.691322 27.507856,-23.691324</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>80</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507856,-23.691324 27.5079,-23.691326</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>81</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.5079,-23.691326 27.507944,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>82</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507944,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>83</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>84</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>85</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>86</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>87</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>88</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>89</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>90</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>91</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>92</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>93</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>94</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507948,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>95</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507948,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>96</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>97</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>98</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>99</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>100</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>101</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>102</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>103</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>104</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>105</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>106</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>107</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>108</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>109</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>110</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>111</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.507978,-23.691343</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>112</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507978,-23.691343 27.508009,-23.691349</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>113</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508009,-23.691349 27.508047,-23.691353</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>114</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508047,-23.691353 27.50809,-23.691362</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>115</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50809,-23.691362 27.508133,-23.69137</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>116</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508133,-23.69137 27.508188,-23.691381</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>117</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508188,-23.691381 27.508236,-23.691383</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>118</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508236,-23.691383 27.508286,-23.69139</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>119</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508286,-23.69139 27.508333,-23.691393</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>120</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508333,-23.691393 27.50838,-23.691402</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>121</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50838,-23.691402 27.50843,-23.691404</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>122</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50843,-23.691404 27.508476,-23.69141</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>123</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508476,-23.69141 27.508526,-23.691414</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>124</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508526,-23.691414 27.508575,-23.691416</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>125</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508575,-23.691416 27.508625,-23.69142</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>126</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508625,-23.69142 27.508677,-23.691422</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>127</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508677,-23.691422 27.50873,-23.691425</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>128</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50873,-23.691425 27.50878,-23.691427</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>129</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50878,-23.691427 27.50883,-23.691425</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>130</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50883,-23.691425 27.50888,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>131</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50888,-23.69143 27.508928,-23.691431</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>132</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508928,-23.691431 27.508978,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>133</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508978,-23.691439 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>134</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>135</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691439 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>136</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>137</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>138</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>139</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>140</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>141</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>142</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>143</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>144</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>145</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>146</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>147</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>148</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>149</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>150</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>151</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>152</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>153</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>154</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>155</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>156</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>157</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>158</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>159</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>160</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>161</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>162</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>163</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>164</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>165</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509005,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>166</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691435 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>167</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>168</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>169</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>170</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691437 27.508991,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>171</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508991,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>172</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>173</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>174</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>175</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>176</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>177</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>178</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>179</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>180</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>181</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>182</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>183</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>184</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.691442</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>185</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.691442 27.508987,-23.691442</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>186</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.691442 27.508984,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>187</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508984,-23.691439 27.50897,-23.691442</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>188</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50897,-23.691442 27.508936,-23.691442</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>189</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508936,-23.691442 27.508898,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>190</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508898,-23.691437 27.50885,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>191</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50885,-23.691433 27.508812,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>192</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508812,-23.69143 27.508774,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>193</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508774,-23.69143 27.508738,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>194</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508738,-23.691433 27.508698,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>195</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.691433 27.508682,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>196</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508682,-23.691435 27.50868,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>197</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50868,-23.691433 27.508682,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>198</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508682,-23.691433 27.508684,-23.691431</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>199</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508684,-23.691431 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>200</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>201</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>202</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>203</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>204</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>205</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>206</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>207</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508701,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>208</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508701,-23.69143 27.508684,-23.691427</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>209</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508684,-23.691427 27.508663,-23.69142</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>210</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508663,-23.69142 27.50863,-23.691423</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>211</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50863,-23.691423 27.508587,-23.691422</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>212</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508587,-23.691422 27.508543,-23.691418</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>213</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508543,-23.691418 27.508497,-23.691416</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>214</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508497,-23.691416 27.50844,-23.69141</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>215</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50844,-23.69141 27.508394,-23.691402</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>216</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508394,-23.691402 27.50835,-23.691395</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>217</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50835,-23.691395 27.508305,-23.69139</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>218</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508305,-23.69139 27.508263,-23.691387</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>219</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508263,-23.691387 27.508215,-23.691383</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>220</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508215,-23.691383 27.508171,-23.69138</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>221</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508171,-23.69138 27.508127,-23.691376</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>222</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508127,-23.691376 27.508081,-23.691368</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>223</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508081,-23.691368 27.508045,-23.691364</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>224</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508045,-23.691364 27.508,-23.691353</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>225</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508,-23.691353 27.507952,-23.691349</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>226</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507952,-23.691349 27.507904,-23.691345</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>227</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507904,-23.691345 27.507856,-23.69134</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>228</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507856,-23.69134 27.507807,-23.691338</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>229</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507807,-23.691338 27.50776,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>230</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50776,-23.691334 27.507711,-23.69133</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>231</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507711,-23.69133 27.507666,-23.691324</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>232</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507666,-23.691324 27.507616,-23.69132</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>233</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507616,-23.69132 27.507568,-23.69132</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>234</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507568,-23.69132 27.50752,-23.691319</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>235</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50752,-23.691319 27.507471,-23.691313</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>236</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507471,-23.691313 27.507421,-23.69131</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>237</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507421,-23.69131 27.507362,-23.691305</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>238</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507362,-23.691305 27.507315,-23.691303</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>239</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507315,-23.691303 27.507267,-23.691301</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>240</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507267,-23.691301 27.507217,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>241</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507217,-23.691298 27.50717,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>242</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50717,-23.6913 27.507122,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>243</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507122,-23.6913 27.507074,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>244</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507074,-23.691298 27.507029,-23.691296</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>245</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507029,-23.691296 27.506983,-23.691292</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>246</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506983,-23.691292 27.506935,-23.69129</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>247</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506935,-23.69129 27.506887,-23.691288</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>248</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506887,-23.691288 27.50684,-23.691284</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>249</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50684,-23.691284 27.506792,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>250</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506792,-23.69128 27.506742,-23.691277</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>251</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506742,-23.691277 27.506706,-23.691273</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>252</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506706,-23.691273 27.50666,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>253</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50666,-23.69127 27.506613,-23.691267</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>254</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506613,-23.691267 27.506567,-23.691261</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>255</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506567,-23.691261 27.506517,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>256</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506517,-23.691257 27.50647,-23.691254</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>257</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50647,-23.691254 27.506422,-23.69125</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>258</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506422,-23.69125 27.506372,-23.691244</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>259</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506372,-23.691244 27.506311,-23.691238</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>260</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506311,-23.691238 27.506262,-23.691235</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>261</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506262,-23.691235 27.506212,-23.69123</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>262</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506212,-23.69123 27.50616,-23.691229</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>263</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50616,-23.691229 27.50611,-23.691227</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>264</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50611,-23.691227 27.50606,-23.691217</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>265</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50606,-23.691217 27.506008,-23.691216</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>266</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506008,-23.691216 27.505959,-23.691214</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>267</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505959,-23.691214 27.505907,-23.691214</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>268</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505907,-23.691214 27.505857,-23.691212</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>269</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505857,-23.691212 27.505806,-23.691217</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>270</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505806,-23.691217 27.505756,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>271</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505756,-23.691221 27.505709,-23.691229</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>272</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505709,-23.691229 27.50566,-23.691236</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>273</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50566,-23.691236 27.505608,-23.691244</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>274</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505608,-23.691244 27.505556,-23.691256</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>275</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505556,-23.691256 27.505507,-23.691265</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>276</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505507,-23.691265 27.505455,-23.691273</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>277</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505455,-23.691273 27.505419,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>278</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505419,-23.69128 27.50537,-23.69129</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>279</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50537,-23.69129 27.505316,-23.691294</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>280</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505316,-23.691294 27.505264,-23.691294</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>281</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505264,-23.691294 27.505213,-23.691296</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>282</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505213,-23.691296 27.50516,-23.691294</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>283</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50516,-23.691294 27.505095,-23.691286</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>284</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505095,-23.691286 27.505043,-23.69128</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>285</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505043,-23.69128 27.504992,-23.691277</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>286</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504992,-23.691277 27.50494,-23.691273</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>287</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50494,-23.691273 27.504889,-23.69127</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>288</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504889,-23.69127 27.504839,-23.69127</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>289</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504839,-23.69127 27.504787,-23.69127</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>290</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504787,-23.69127 27.504736,-23.691269</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>291</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504736,-23.691269 27.504684,-23.69127</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>292</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504684,-23.69127 27.504648,-23.691269</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>293</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504648,-23.691269 27.504585,-23.691267</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>294</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504585,-23.691267 27.504534,-23.691267</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>295</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504534,-23.691267 27.504484,-23.691269</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>296</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504484,-23.691269 27.50444,-23.691257</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>297</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50444,-23.691257 27.504438,-23.691217</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>298</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504438,-23.691217 27.50447,-23.691204</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>299</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50447,-23.691204 27.504484,-23.69123</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>300</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504484,-23.69123 27.504477,-23.691261</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>301</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504477,-23.691261 27.50445,-23.691267</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>302</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50445,-23.691267 27.504404,-23.691263</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>303</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504404,-23.691263 27.504389,-23.691261</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>304</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504389,-23.691261 27.50442,-23.691235</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>305</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50442,-23.691235 27.50443,-23.69122</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>306</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50443,-23.69122 27.504433,-23.691221</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>307</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504433,-23.691221 27.504435,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>308</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504435,-23.691223 27.504452,-23.691227</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>309</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504452,-23.691227 27.504423,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>310</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504423,-23.691223 27.50438,-23.691235</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>311</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50438,-23.691235 27.504335,-23.691257</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>312</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504335,-23.691257 27.504286,-23.691269</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>313</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504286,-23.691269 27.504232,-23.69128</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>314</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504232,-23.69128 27.504185,-23.69129</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>315</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504185,-23.69129 27.504131,-23.691298</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>316</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504131,-23.691298 27.504076,-23.691301</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>317</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504076,-23.691301 27.504023,-23.691305</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>318</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504023,-23.691305 27.50397,-23.691309</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>319</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50397,-23.691309 27.503931,-23.691309</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>320</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503931,-23.691309 27.50388,-23.691305</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>321</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50388,-23.691305 27.503817,-23.6913</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>322</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503817,-23.6913 27.503765,-23.691298</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>323</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503765,-23.691298 27.503712,-23.691298</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>324</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503712,-23.691298 27.503674,-23.691296</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>325</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503674,-23.691296 27.503622,-23.691294</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>326</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503622,-23.691294 27.503569,-23.691286</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>327</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503569,-23.691286 27.503513,-23.691286</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>328</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503513,-23.691286 27.503462,-23.691288</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>329</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503462,-23.691288 27.503395,-23.691284</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>330</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503395,-23.691284 27.503342,-23.69128</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>331</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503342,-23.69128 27.503288,-23.691275</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>332</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503288,-23.691275 27.503235,-23.691273</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>333</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503235,-23.691273 27.50319,-23.69127</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>334</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50319,-23.69127 27.503138,-23.691267</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>335</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503138,-23.691267 27.503086,-23.69126</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>336</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503086,-23.69126 27.503035,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>337</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503035,-23.691257 27.502981,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>338</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502981,-23.691257 27.50293,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>339</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50293,-23.691257 27.50289,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>340</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50289,-23.691261 27.502825,-23.69126</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>341</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502825,-23.69126 27.502771,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>342</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502771,-23.691261 27.502718,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>343</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502718,-23.691261 27.502665,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>344</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502665,-23.691257 27.502613,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>345</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502613,-23.691257 27.502573,-23.691254</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>346</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502573,-23.691254 27.502522,-23.691246</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>347</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502522,-23.691246 27.502472,-23.69124</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>348</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502472,-23.69124 27.502424,-23.69123</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>349</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502424,-23.69123 27.502378,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>350</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502378,-23.691221 27.502335,-23.691216</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>351</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502335,-23.691216 27.50228,-23.6912</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>352</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50228,-23.6912 27.50224,-23.691187</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>353</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50224,-23.691187 27.502201,-23.69117</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>354</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502201,-23.69117 27.502163,-23.691153</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>355</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502163,-23.691153 27.502121,-23.69113</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>356</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502121,-23.69113 27.50208,-23.691105</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>357</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50208,-23.691105 27.502045,-23.691076</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>358</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502045,-23.691076 27.502008,-23.691048</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>359</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502008,-23.691048 27.501972,-23.691021</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>360</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501972,-23.691021 27.501934,-23.690992</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>361</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501934,-23.690992 27.501905,-23.690958</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>362</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501905,-23.690958 27.5019,-23.690914</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>363</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.5019,-23.690914 27.501919,-23.690878</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>364</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501919,-23.690878 27.50194,-23.690845</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>365</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50194,-23.690845 27.501968,-23.690813</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>366</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501968,-23.690813 27.501995,-23.690777</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>367</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501995,-23.690777 27.502014,-23.690748</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>368</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502014,-23.690748 27.502052,-23.690704</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>369</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502052,-23.690704 27.502079,-23.690683</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>370</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502079,-23.690683 27.502111,-23.690655</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>371</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502111,-23.690655 27.50215,-23.69063</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>372</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50215,-23.69063 27.502184,-23.690598</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>373</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502184,-23.690598 27.502224,-23.69057</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>374</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502224,-23.69057 27.502268,-23.690533</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>375</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502268,-23.690533 27.502304,-23.690502</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>376</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502304,-23.690502 27.502344,-23.69047</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>377</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502344,-23.69047 27.502388,-23.690441</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>378</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502388,-23.690441 27.502434,-23.690416</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>379</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502434,-23.690416 27.502483,-23.690407</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>380</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502483,-23.690407 27.502535,-23.690407</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>381</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502535,-23.690407 27.502583,-23.690426</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>382</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502583,-23.690426 27.50263,-23.690445</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>383</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50263,-23.690445 27.502678,-23.690464</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>384</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502678,-23.690464 27.50273,-23.690485</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>385</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50273,-23.690485 27.502777,-23.690508</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>386</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502777,-23.690508 27.502821,-23.690533</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>387</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502821,-23.690533 27.502865,-23.690557</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>388</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502865,-23.690557 27.502905,-23.690584</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>389</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502905,-23.690584 27.502947,-23.690613</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>390</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502947,-23.690613 27.50299,-23.690638</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>391</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50299,-23.690638 27.50303,-23.69065</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>392</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50303,-23.69065 27.50309,-23.690674</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>393</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50309,-23.690674 27.503141,-23.690693</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>394</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503141,-23.690693 27.50318,-23.690708</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>395</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50318,-23.690708 27.50323,-23.69073</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>396</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50323,-23.69073 27.503279,-23.690758</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>397</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503279,-23.690758 27.50333,-23.690783</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>398</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50333,-23.690783 27.503387,-23.690819</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>399</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503387,-23.690819 27.503439,-23.690836</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>400</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503439,-23.690836 27.503483,-23.690868</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>401</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503483,-23.690868 27.503529,-23.6909</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>402</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503529,-23.6909 27.503572,-23.690931</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>403</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503572,-23.690931 27.503618,-23.690964</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>404</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503618,-23.690964 27.503662,-23.690998</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>405</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503662,-23.690998 27.503704,-23.691032</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>406</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503704,-23.691032 27.503744,-23.691067</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>407</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503744,-23.691067 27.503788,-23.6911</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>408</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503788,-23.6911 27.503834,-23.69113</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>409</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503834,-23.69113 27.503876,-23.691162</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>410</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503876,-23.691162 27.503916,-23.691196</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>411</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503916,-23.691196 27.503956,-23.691233</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>412</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503956,-23.691233 27.503994,-23.691273</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>413</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503994,-23.691273 27.504038,-23.691301</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>414</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504038,-23.691301 27.504091,-23.691303</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>415</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504091,-23.691303 27.504128,-23.691298</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>416</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504128,-23.691298 27.504183,-23.691288</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>417</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504183,-23.691288 27.50422,-23.691286</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>418</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50422,-23.691286 27.504265,-23.691278</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>419</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504265,-23.691278 27.50431,-23.69127</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>420</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50431,-23.69127 27.50434,-23.691265</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>421</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50434,-23.691265 27.50434,-23.691265</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>422</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50434,-23.691265 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>423</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>424</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>425</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>426</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>427</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504396,-23.691238</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>428</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504396,-23.691238 27.50444,-23.69122</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>429</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50444,-23.69122 27.504473,-23.691198</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>430</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.691198 27.504498,-23.691212</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+</Folder><Folder>
+<name>wlan1</name>
+<Placemark>
+<name>1</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.69122 27.504473,-23.69122</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>2</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.69122 27.504494,-23.691217</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>3</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504494,-23.691217 27.504538,-23.691221</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>4</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504538,-23.691221 27.504585,-23.691225</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>5</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504585,-23.691225 27.504633,-23.691225</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>6</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504633,-23.691225 27.504683,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>7</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504683,-23.691223 27.504732,-23.691223</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>8</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504732,-23.691223 27.504753,-23.691229</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>9</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504753,-23.691229 27.504793,-23.69123</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>10</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504793,-23.69123 27.504835,-23.691242</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>11</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504835,-23.691242 27.504889,-23.691242</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>12</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504889,-23.691242 27.50494,-23.691244</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>13</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50494,-23.691244 27.50499,-23.691244</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>14</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50499,-23.691244 27.505028,-23.69125</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>15</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505028,-23.69125 27.50508,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>16</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50508,-23.691257 27.505125,-23.691265</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>17</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505125,-23.691265 27.50517,-23.691267</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>18</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50517,-23.691267 27.50522,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>19</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50522,-23.69127 27.505276,-23.691275</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>20</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505276,-23.691275 27.505316,-23.691275</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>21</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505316,-23.691275 27.505356,-23.691273</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>22</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505356,-23.691273 27.505402,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>23</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505402,-23.69127 27.505445,-23.691263</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>24</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505445,-23.691263 27.505487,-23.691246</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>25</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505487,-23.691246 27.505531,-23.691236</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>26</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505531,-23.691236 27.505577,-23.691229</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>27</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505577,-23.691229 27.505623,-23.691223</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>28</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505623,-23.691223 27.505669,-23.691217</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>29</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505669,-23.691217 27.505713,-23.691206</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>30</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505713,-23.691206 27.505756,-23.691202</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>31</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505756,-23.691202 27.505802,-23.691198</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>32</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505802,-23.691198 27.50585,-23.691195</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>33</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50585,-23.691195 27.505884,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>34</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505884,-23.691193 27.505945,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>35</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505945,-23.691193 27.505991,-23.69119</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>36</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505991,-23.69119 27.506039,-23.691193</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>37</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506039,-23.691193 27.506083,-23.691196</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>38</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506083,-23.691196 27.506117,-23.691198</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>39</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506117,-23.691198 27.506163,-23.691204</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>40</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506163,-23.691204 27.50621,-23.691208</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>41</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50621,-23.691208 27.506258,-23.691212</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>42</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506258,-23.691212 27.506308,-23.691214</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>43</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506308,-23.691214 27.506367,-23.691217</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>44</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506367,-23.691217 27.506413,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>45</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506413,-23.691221 27.50646,-23.69123</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>46</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50646,-23.69123 27.506506,-23.691235</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>47</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506506,-23.691235 27.506557,-23.691236</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>48</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506557,-23.691236 27.506609,-23.691242</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>49</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506609,-23.691242 27.506655,-23.691244</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>50</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506655,-23.691244 27.506702,-23.69125</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>51</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506702,-23.69125 27.506754,-23.691256</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>52</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506754,-23.691256 27.506802,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>53</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506802,-23.691257 27.506853,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>54</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506853,-23.691261 27.506903,-23.691265</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>55</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506903,-23.691265 27.50694,-23.691263</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>56</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50694,-23.691263 27.507006,-23.691267</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>57</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507006,-23.691267 27.507042,-23.691273</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>58</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507042,-23.691273 27.507103,-23.691277</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>59</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507103,-23.691277 27.507153,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>60</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507153,-23.69128 27.507202,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>61</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507202,-23.69128 27.507236,-23.691282</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>62</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507236,-23.691282 27.507288,-23.691284</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>63</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507288,-23.691284 27.507318,-23.691286</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>64</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507318,-23.691286 27.507362,-23.691288</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>65</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507362,-23.691288 27.507406,-23.69129</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>66</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507406,-23.69129 27.507442,-23.691292</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>67</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507442,-23.691292 27.507448,-23.691294</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>68</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691294 27.507448,-23.691296</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>69</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691296 27.507448,-23.691296</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>70</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507448,-23.691296 27.507444,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>71</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507444,-23.691294 27.507473,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>72</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507473,-23.691298 27.507519,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>73</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507519,-23.6913 27.507565,-23.691303</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>74</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507565,-23.691303 27.507612,-23.691305</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>75</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507612,-23.691305 27.507662,-23.691307</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>76</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507662,-23.691307 27.50771,-23.691315</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>77</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50771,-23.691315 27.50776,-23.691322</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>78</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50776,-23.691322 27.507809,-23.691322</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>79</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507809,-23.691322 27.507856,-23.691324</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>80</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507856,-23.691324 27.5079,-23.691326</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>81</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.5079,-23.691326 27.507944,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>82</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507944,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>83</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>84</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>85</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>86</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>87</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>88</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>89</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>90</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>91</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>92</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>93</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507946,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>94</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507946,-23.691334 27.507948,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>95</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507948,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>96</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>97</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>98</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>99</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>100</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>101</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>102</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>103</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>104</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>105</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>106</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>107</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>108</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>109</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>110</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.50795,-23.691334</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>111</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50795,-23.691334 27.507978,-23.691343</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>112</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507978,-23.691343 27.508009,-23.691349</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>113</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508009,-23.691349 27.508047,-23.691353</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>114</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508047,-23.691353 27.50809,-23.691362</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>115</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50809,-23.691362 27.508133,-23.69137</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>116</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508133,-23.69137 27.508188,-23.691381</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>117</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508188,-23.691381 27.508236,-23.691383</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>118</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508236,-23.691383 27.508286,-23.69139</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>119</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508286,-23.69139 27.508333,-23.691393</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>120</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508333,-23.691393 27.50838,-23.691402</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>121</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50838,-23.691402 27.50843,-23.691404</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>122</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50843,-23.691404 27.508476,-23.69141</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>123</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508476,-23.69141 27.508526,-23.691414</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>124</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508526,-23.691414 27.508575,-23.691416</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>125</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508575,-23.691416 27.508625,-23.69142</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>126</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508625,-23.69142 27.508677,-23.691422</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>127</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508677,-23.691422 27.50873,-23.691425</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>128</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50873,-23.691425 27.50878,-23.691427</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>129</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50878,-23.691427 27.50883,-23.691425</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>130</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50883,-23.691425 27.50888,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>131</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50888,-23.69143 27.508928,-23.691431</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>132</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508928,-23.691431 27.508978,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>133</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508978,-23.691439 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>134</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>135</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691439 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>136</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>137</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>138</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>139</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>140</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509005,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>141</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691437 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>142</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>143</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>144</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>145</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>146</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>147</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>148</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>149</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509007,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>150</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691435 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>151</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>152</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>153</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>154</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>155</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>156</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509008,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>157</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509008,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>158</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>159</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>160</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>164</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509007,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>165</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509007,-23.691437 27.509005,-23.691435</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>166</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509005,-23.691435 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>167</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>168</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691439</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>169</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691439 27.509003,-23.691437</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>170</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.509003,-23.691437 27.508991,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>171</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508991,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>172</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>173</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>174</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>175</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.508987,-23.69144</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>176</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508987,-23.69144 27.50868,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>197</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50868,-23.691433 27.508682,-23.691433</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>198</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508682,-23.691433 27.508684,-23.691431</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>199</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508684,-23.691431 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>200</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>201</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>202</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>203</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>204</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>205</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>206</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508698,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>207</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508698,-23.69143 27.508701,-23.69143</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>208</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508701,-23.69143 27.508684,-23.691427</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>209</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508684,-23.691427 27.508663,-23.69142</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>210</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508663,-23.69142 27.50863,-23.691423</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>211</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50863,-23.691423 27.508587,-23.691422</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>212</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508587,-23.691422 27.508543,-23.691418</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>213</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508543,-23.691418 27.508497,-23.691416</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>214</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508497,-23.691416 27.50844,-23.69141</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>215</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50844,-23.69141 27.508394,-23.691402</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>216</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508394,-23.691402 27.508215,-23.691383</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>220</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508215,-23.691383 27.508171,-23.69138</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>221</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508171,-23.69138 27.508127,-23.691376</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>222</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508127,-23.691376 27.508081,-23.691368</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>223</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508081,-23.691368 27.508045,-23.691364</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>224</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508045,-23.691364 27.508,-23.691353</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>225</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.508,-23.691353 27.507952,-23.691349</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>226</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507952,-23.691349 27.507904,-23.691345</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>227</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507904,-23.691345 27.507856,-23.69134</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>228</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507856,-23.69134 27.507807,-23.691338</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>229</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507807,-23.691338 27.50776,-23.691334</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>230</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50776,-23.691334 27.507711,-23.69133</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>231</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507711,-23.69133 27.507666,-23.691324</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>232</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507666,-23.691324 27.507616,-23.69132</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>233</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507616,-23.69132 27.507568,-23.69132</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>234</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507568,-23.69132 27.50752,-23.691319</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>235</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50752,-23.691319 27.507471,-23.691313</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>236</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507471,-23.691313 27.507421,-23.69131</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>237</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507421,-23.69131 27.507362,-23.691305</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>238</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507362,-23.691305 27.507315,-23.691303</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>239</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507315,-23.691303 27.507267,-23.691301</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>240</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507267,-23.691301 27.507217,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>241</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507217,-23.691298 27.50717,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>242</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50717,-23.6913 27.507122,-23.6913</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>243</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507122,-23.6913 27.507074,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>244</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507074,-23.691298 27.507029,-23.691296</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>245</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.507029,-23.691296 27.506983,-23.691292</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>246</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506983,-23.691292 27.506935,-23.69129</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>247</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506935,-23.69129 27.506887,-23.691288</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>248</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506887,-23.691288 27.50684,-23.691284</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>249</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50684,-23.691284 27.506792,-23.69128</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>250</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506792,-23.69128 27.506742,-23.691277</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>251</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506742,-23.691277 27.506706,-23.691273</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>252</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506706,-23.691273 27.50666,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>253</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50666,-23.69127 27.506613,-23.691267</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>254</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506613,-23.691267 27.506567,-23.691261</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>255</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506567,-23.691261 27.506517,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>256</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506517,-23.691257 27.50647,-23.691254</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>257</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50647,-23.691254 27.506422,-23.69125</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>258</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506422,-23.69125 27.506372,-23.691244</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>259</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506372,-23.691244 27.506311,-23.691238</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>260</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506311,-23.691238 27.506262,-23.691235</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>261</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506262,-23.691235 27.506212,-23.69123</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>262</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506212,-23.69123 27.50616,-23.691229</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>263</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50616,-23.691229 27.50611,-23.691227</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>264</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50611,-23.691227 27.50606,-23.691217</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>265</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50606,-23.691217 27.506008,-23.691216</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>266</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.506008,-23.691216 27.505959,-23.691214</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>267</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505959,-23.691214 27.505907,-23.691214</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>268</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505907,-23.691214 27.505857,-23.691212</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>269</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505857,-23.691212 27.505806,-23.691217</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>270</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505806,-23.691217 27.505756,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>271</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505756,-23.691221 27.505709,-23.691229</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>272</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505709,-23.691229 27.50566,-23.691236</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>273</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50566,-23.691236 27.505608,-23.691244</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>274</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505608,-23.691244 27.505556,-23.691256</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>275</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505556,-23.691256 27.505507,-23.691265</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>276</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505507,-23.691265 27.505455,-23.691273</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>277</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505455,-23.691273 27.505419,-23.69128</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>278</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505419,-23.69128 27.50537,-23.69129</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>279</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50537,-23.69129 27.505316,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>280</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505316,-23.691294 27.505264,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>281</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505264,-23.691294 27.505213,-23.691296</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>282</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505213,-23.691296 27.50516,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>283</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50516,-23.691294 27.505095,-23.691286</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>284</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505095,-23.691286 27.505043,-23.69128</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>285</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.505043,-23.69128 27.504992,-23.691277</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>286</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504992,-23.691277 27.50494,-23.691273</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>287</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50494,-23.691273 27.504889,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>288</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504889,-23.69127 27.504839,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>289</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504839,-23.69127 27.504787,-23.69127</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>290</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504787,-23.69127 27.504736,-23.691269</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>291</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504736,-23.691269 27.504684,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>292</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504684,-23.69127 27.504648,-23.691269</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>293</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504648,-23.691269 27.504585,-23.691267</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>294</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504585,-23.691267 27.504534,-23.691267</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>295</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504534,-23.691267 27.504484,-23.691269</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>296</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504484,-23.691269 27.50444,-23.691257</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>297</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50444,-23.691257 27.504438,-23.691217</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>298</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504438,-23.691217 27.50447,-23.691204</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>299</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50447,-23.691204 27.504484,-23.69123</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>300</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504484,-23.69123 27.504477,-23.691261</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>301</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504477,-23.691261 27.50445,-23.691267</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>302</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50445,-23.691267 27.504404,-23.691263</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>303</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504404,-23.691263 27.504389,-23.691261</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>304</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504389,-23.691261 27.50442,-23.691235</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>305</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50442,-23.691235 27.50443,-23.69122</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>306</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50443,-23.69122 27.504433,-23.691221</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>307</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504433,-23.691221 27.504435,-23.691223</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>308</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504435,-23.691223 27.504452,-23.691227</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>309</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504452,-23.691227 27.504423,-23.691223</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>310</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504423,-23.691223 27.50438,-23.691235</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>311</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50438,-23.691235 27.504335,-23.691257</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>312</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504335,-23.691257 27.504286,-23.691269</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>313</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504286,-23.691269 27.504232,-23.69128</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>314</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504232,-23.69128 27.504185,-23.69129</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>315</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504185,-23.69129 27.504131,-23.691298</coordinates>
+</LineString>
+<styleUrl>#green_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>316</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504131,-23.691298 27.504076,-23.691301</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>317</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504076,-23.691301 27.504023,-23.691305</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>318</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504023,-23.691305 27.50397,-23.691309</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>319</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50397,-23.691309 27.503931,-23.691309</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>320</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503931,-23.691309 27.50388,-23.691305</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>321</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50388,-23.691305 27.503817,-23.6913</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>322</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503817,-23.6913 27.503765,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>323</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503765,-23.691298 27.503712,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>324</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503712,-23.691298 27.503674,-23.691296</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>325</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503674,-23.691296 27.503622,-23.691294</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>326</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503622,-23.691294 27.503569,-23.691286</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>327</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503569,-23.691286 27.503513,-23.691286</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>328</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503513,-23.691286 27.503462,-23.691288</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>329</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503462,-23.691288 27.503395,-23.691284</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>330</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503395,-23.691284 27.503342,-23.69128</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>331</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503342,-23.69128 27.503288,-23.691275</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>332</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503288,-23.691275 27.503235,-23.691273</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>333</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503235,-23.691273 27.50319,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>334</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50319,-23.69127 27.503138,-23.691267</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>335</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503138,-23.691267 27.503086,-23.69126</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>336</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503086,-23.69126 27.503035,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>337</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503035,-23.691257 27.502981,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>338</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502981,-23.691257 27.50293,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>339</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50293,-23.691257 27.50289,-23.691261</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>340</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50289,-23.691261 27.502825,-23.69126</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>341</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502825,-23.69126 27.502771,-23.691261</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>342</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502771,-23.691261 27.502718,-23.691261</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>343</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502718,-23.691261 27.502665,-23.691257</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>344</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502665,-23.691257 27.502613,-23.691257</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>345</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502613,-23.691257 27.502573,-23.691254</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>346</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502573,-23.691254 27.502522,-23.691246</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>347</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502522,-23.691246 27.502472,-23.69124</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>348</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502472,-23.69124 27.502424,-23.69123</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>349</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502424,-23.69123 27.502378,-23.691221</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>350</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502378,-23.691221 27.502335,-23.691216</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>351</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502335,-23.691216 27.50228,-23.6912</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>352</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50228,-23.6912 27.50224,-23.691187</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>353</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50224,-23.691187 27.502201,-23.69117</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>354</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502201,-23.69117 27.502163,-23.691153</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>355</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502163,-23.691153 27.502121,-23.69113</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>356</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502121,-23.69113 27.50208,-23.691105</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>357</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50208,-23.691105 27.502045,-23.691076</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>358</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502045,-23.691076 27.502008,-23.691048</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>359</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502008,-23.691048 27.501972,-23.691021</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>360</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501972,-23.691021 27.501934,-23.690992</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>361</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501934,-23.690992 27.501905,-23.690958</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>362</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501905,-23.690958 27.5019,-23.690914</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>363</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.5019,-23.690914 27.501919,-23.690878</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>364</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501919,-23.690878 27.50194,-23.690845</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>365</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50194,-23.690845 27.501968,-23.690813</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>366</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501968,-23.690813 27.501995,-23.690777</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>367</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.501995,-23.690777 27.502014,-23.690748</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>368</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502014,-23.690748 27.502052,-23.690704</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>369</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502052,-23.690704 27.502079,-23.690683</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>370</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502079,-23.690683 27.502111,-23.690655</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>371</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502111,-23.690655 27.50215,-23.69063</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>372</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50215,-23.69063 27.502184,-23.690598</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>373</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502184,-23.690598 27.502224,-23.69057</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>374</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502224,-23.69057 27.502268,-23.690533</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>375</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502268,-23.690533 27.502304,-23.690502</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>376</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502304,-23.690502 27.502344,-23.69047</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>377</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502344,-23.69047 27.502388,-23.690441</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>378</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502388,-23.690441 27.502434,-23.690416</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>379</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502434,-23.690416 27.502483,-23.690407</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>380</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502483,-23.690407 27.502535,-23.690407</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>381</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502535,-23.690407 27.502583,-23.690426</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>382</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502583,-23.690426 27.50263,-23.690445</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>383</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50263,-23.690445 27.502678,-23.690464</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>384</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502678,-23.690464 27.50273,-23.690485</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>385</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50273,-23.690485 27.502777,-23.690508</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>386</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502777,-23.690508 27.502821,-23.690533</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>387</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502821,-23.690533 27.502865,-23.690557</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>388</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502865,-23.690557 27.502905,-23.690584</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>389</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502905,-23.690584 27.502947,-23.690613</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>390</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.502947,-23.690613 27.50299,-23.690638</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>391</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50299,-23.690638 27.50303,-23.69065</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>392</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50303,-23.69065 27.50309,-23.690674</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>393</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50309,-23.690674 27.503141,-23.690693</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>394</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503141,-23.690693 27.50318,-23.690708</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>395</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50318,-23.690708 27.50323,-23.69073</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>396</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50323,-23.69073 27.503279,-23.690758</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>397</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503279,-23.690758 27.50333,-23.690783</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>398</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50333,-23.690783 27.503387,-23.690819</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>399</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503387,-23.690819 27.503439,-23.690836</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>400</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503439,-23.690836 27.503483,-23.690868</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>401</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503483,-23.690868 27.503529,-23.6909</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>402</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503529,-23.6909 27.503572,-23.690931</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>403</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503572,-23.690931 27.503618,-23.690964</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>404</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503618,-23.690964 27.503662,-23.690998</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>405</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503662,-23.690998 27.503704,-23.691032</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>406</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503704,-23.691032 27.503744,-23.691067</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>407</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503744,-23.691067 27.503788,-23.6911</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>408</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503788,-23.6911 27.503834,-23.69113</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>409</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503834,-23.69113 27.503876,-23.691162</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>410</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503876,-23.691162 27.503916,-23.691196</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>411</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503916,-23.691196 27.503956,-23.691233</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>412</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503956,-23.691233 27.503994,-23.691273</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>413</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.503994,-23.691273 27.504038,-23.691301</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>414</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504038,-23.691301 27.504091,-23.691303</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>415</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504091,-23.691303 27.504128,-23.691298</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>416</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504128,-23.691298 27.504183,-23.691288</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>417</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504183,-23.691288 27.50422,-23.691286</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>418</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50422,-23.691286 27.504265,-23.691278</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>419</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504265,-23.691278 27.50431,-23.69127</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>420</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50431,-23.69127 27.50434,-23.691265</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>421</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50434,-23.691265 27.50434,-23.691265</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>422</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50434,-23.691265 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>423</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>424</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>425</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>426</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504375,-23.691252</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>427</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504375,-23.691252 27.504396,-23.691238</coordinates>
+</LineString>
+<styleUrl>#red_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>428</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504396,-23.691238 27.50444,-23.69122</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>429</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.50444,-23.69122 27.504473,-23.691198</coordinates>
+</LineString>
+<styleUrl>#orange_line</styleUrl>
+</Placemark>
+<Placemark>
+<name>430</name>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>27.504473,-23.691198 27.504498,-23.691212</coordinates>
+</LineString>
+<styleUrl>#yellow_line</styleUrl>
+</Placemark>
+</Folder>
+</Document>
+</kml>

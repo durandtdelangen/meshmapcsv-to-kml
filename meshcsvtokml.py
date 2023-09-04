@@ -1,6 +1,8 @@
 import csv
 
-csv_file = open('Meshmapper_2023-07-17_13-37-00_peer_info.csv', 'r')
+peerinfofile = input("Enter the path to the peer info file from meshmapper: ")
+
+csv_file = open(peerinfofile, 'r')
 data = list(csv.reader(csv_file, delimiter=','))
 csv_file.close()
 wlan0 = []

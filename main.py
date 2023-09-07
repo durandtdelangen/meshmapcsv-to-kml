@@ -20,6 +20,7 @@ second = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name'
 lastpoint = int(peerinfodata[-1]["Point Num"]) #Get point number of last point in list
 
 for point in range(1, lastpoint+1):
+    
     for row in peerinfodata:
         if int(row['Point Num']) == point:
             if (int(row['Signal']) > int(best['Signal'])) & (int(row['Signal']) != 0):
@@ -27,12 +28,18 @@ for point in range(1, lastpoint+1):
                 best = row
             elif (int(row['Signal']) > int(second['Signal'])) & (int(row['Signal']) != 0):
                 second = row
-    #exportfile.write(f"{best['Point Num']} {best['Signal']} {second['Signal']}\n")
+    exportfile.write(f"{best['Point Num']} {best['Signal']} {second['Signal']}\n") #testcode
+    linetowrite = (f"{best['Point Num']} {best['Serial']} {best['Name']} {best['Wlan']} {best['Signal']} {second['Serial']} {second['Name']} {second['Wlan']} {second['Signal']}\n") #testcode
+    primaryfile.writelines(linetowrite) #testcode
     primaryAPT.append(best)
     secondaryAPT.append(second)
-    best['Signal'] = -108
-    second['Signal'] = -108
-
-#At this point I have the best and second best signal levels saved in list of dicts called primaryAPT and secondaryAPT. This is the best and second best at these points, no matter the band or if they are to APT links
-
+    print (primaryAPT[point-1]) #testcode
+    #best['Signal'] = -109
+    #second['Signal'] = -108
     
+
+#At this point I should have the best and second best signal levels saved in list of dicts called primaryAPT and secondaryAPT. This is the best and second best at these points, no matter the band or if they are to APT links
+#print (primaryAPT)
+for i in primaryAPT:#testcode
+    print (f"Point Num: {i['Point Num']} Serial: {i['Serial']} Name: {i['Name']} Best signal: {i['Signal']}")#testcode
+    #exportfile.writelines(primaryAPT[]['Signal'])

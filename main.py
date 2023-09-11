@@ -1,18 +1,22 @@
 import csv
 
+from data_point import DataPoint
+
 #Open CSV Files
 #peerinfofile = input("Enter the path to the peer info file: ")
 peerinfofile = "C:\Code\Projects\meshmapcsv-to-kml\Examples\Meshmapper_2023-08-29_10-50-35_peer_info.csv"
 peerinfodata = list(csv.DictReader(open(peerinfofile)))
-exportfile = open("Examples/terminalexport.txt", "w")
-primaryfile = open("Examples/primaryexport.txt", "w")
-secondaryfile = open("Examples/secondaryexport.txt", "w")
+exportfile = open("Examples/terminalexport.txt", "w") #debug code
+primaryfile = open("Examples/primaryexport.txt", "w") #debug code
+secondaryfile = open("Examples/secondaryexport.txt", "w") #debug code
+#Add import list of APT serials
 
 #Declare lists for writing kml
 primaryAPT = []
 secondaryAPT = []
 twopointfourgig = []
 fivegig = []
+
 points = []
 best = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name': '', 'IP': '', 'Wlan': '', 'RSSI (SNR)': '', 'Cost': '', 'Signal': '', 'MAC Address': '', 'Channel': '', 'Frequency': '', 'Timestamp': ''}
 second = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name': '', 'IP': '', 'Wlan': '', 'RSSI (SNR)': '', 'Cost': '', 'Signal': '', 'MAC Address': '', 'Channel': '', 'Frequency': '', 'Timestamp': ''}
@@ -20,9 +24,18 @@ second = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name'
 #Get data for lists
 lastpoint = int(peerinfodata[-1]["Point Num"]) #Get point number of last point in list
 
+
+
+
 for point in range(1, lastpoint+1):
+    currentPoint = row['Point Num']
+    
+    currentBest =bestScore[point]
+
+
     best['Signal'] = -108
     second['Signal'] = -108
+    #Add way to reference readings against list of APT Serials
     for row in peerinfodata: #get best and second best Signal level at point for valid readings
         if int(row['Point Num']) == point:
             if (int(row['Signal']) > int(best['Signal'])) & (int(row['Signal']) != 0):
@@ -33,6 +46,7 @@ for point in range(1, lastpoint+1):
     linetowrite = (f"{best['Point Num']} {best['Serial']} {best['Name']} {best['Wlan']} {best['Signal']} {second['Serial']} {second['Name']} {second['Wlan']} {second['Signal']}\n") #debug code
     exportfile.writelines(linetowrite) #debug code
     primaryAPT.append(best)
+
     secondaryAPT.append(second)
     print (f"{point} {primaryAPT[point-1]}") #debug code
     print (f"{point} {primaryAPT[point-2]}") #debug code

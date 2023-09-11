@@ -12,57 +12,37 @@ secondaryfile = open("Examples/secondaryexport.txt", "w") #debug code
 #Add import list of APT serials
 
 #Declare lists for writing kml
-primaryAPT = []
-secondaryAPT = []
-twopointfourgig = []
-fivegig = []
-
 points = []
-best = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name': '', 'IP': '', 'Wlan': '', 'RSSI (SNR)': '', 'Cost': '', 'Signal': '', 'MAC Address': '', 'Channel': '', 'Frequency': '', 'Timestamp': ''}
-second = {'Point Num': '', 'Latitude': '', 'Longitude': '', 'Serial': '', 'Name': '', 'IP': '', 'Wlan': '', 'RSSI (SNR)': '', 'Cost': '', 'Signal': '', 'MAC Address': '', 'Channel': '', 'Frequency': '', 'Timestamp': ''}
+bestScores = dict()
+secondBestScores = dict()
 
-#Get data for lists
-lastpoint = int(peerinfodata[-1]["Point Num"]) #Get point number of last point in list
+dataPoints = []
+
+# Get Best
+for dataPoint in dataPoints:
+    bestExisting = None
+    if dataPoint.PointNum in bestScores:
+        bestExisting = bestScores[dataPoint.PointNum]
+
+    if bestExisting == None or bestExisting.Signal > dataPoint.Signal:
+        bestScores[dataPoint.PointNum] = dataPoint
+
+print(f'We have loaded [{len(bestScores)}] items with highest values')
 
 
+# Get Second Best
+for dataPoint in dataPoints:
+    bestExisting = bestScores[dataPoint.PointNum]
+    secondBestExisting = None
+    if dataPoint.PointNum in secondBestScores:
+        secondBestExisting = secondBestScores[dataPoint.PointNum]
 
-
-for point in range(1, lastpoint+1):
-    currentPoint = row['Point Num']
-    
-    currentBest =bestScore[point]
-
-
-    best['Signal'] = -108
-    second['Signal'] = -108
-    #Add way to reference readings against list of APT Serials
-    for row in peerinfodata: #get best and second best Signal level at point for valid readings
-        if int(row['Point Num']) == point:
-            if (int(row['Signal']) > int(best['Signal'])) & (int(row['Signal']) != 0):
-                second = best
-                best = row
-            elif (int(row['Signal']) > int(second['Signal'])) & (int(row['Signal']) != 0):
-                second = row
-    linetowrite = (f"{best['Point Num']} {best['Serial']} {best['Name']} {best['Wlan']} {best['Signal']} {second['Serial']} {second['Name']} {second['Wlan']} {second['Signal']}\n") #debug code
-    exportfile.writelines(linetowrite) #debug code
-    primaryAPT.append(best)
-
-    secondaryAPT.append(second)
-    print (f"{point} {primaryAPT[point-1]}") #debug code
-    print (f"{point} {primaryAPT[point-2]}") #debug code
-    #best['Signal'] = -109
-    #second['Signal'] = -108
+    if  bestExisting.Signal != dataPoint.Signal and (secondBestExisting == None or secondBestExisting.Signal > dataPoint.Signal):
+        secondBestScores[dataPoint.PointNum] = dataPoint
     
 
 #At this point I should have the best and second best signal levels saved in list of dicts called primaryAPT and secondaryAPT. This is the best and second best at these points, no matter the band or if they are to APT links
-#print (primaryAPT)
-for i in primaryAPT:#debug code
-    linetowrite = (f"Point Num: {i['Point Num']} Serial: {i['Serial']} Name: {i['Name']} Best signal: {i['Signal']}\n")#debug code
-    primaryfile.writelines(linetowrite) #debug code
 
-for i in secondaryAPT:#debug code
-    linetowrite = (f"Point Num: {i['Point Num']} Serial: {i['Serial']} Name: {i['Name']} Best signal: {i['Signal']}\n")#debug code
-    secondaryfile.writelines(linetowrite) #debug code
 
 
 #Get data for best 2.4GHz and best 5GHz connection per point into lists twopointfourgig and fivegig

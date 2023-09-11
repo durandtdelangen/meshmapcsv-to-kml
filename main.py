@@ -6,15 +6,15 @@ from data_point import DataPoint
 #peerinfofile = input("Enter the path to the peer info file: ")
 peerinfofile = "C:\Code\Projects\meshmapcsv-to-kml\Examples\Meshmapper_2023-08-29_10-50-35_peer_info.csv"
 peerinfodata = list(csv.DictReader(open(peerinfofile)))
-exportfile = open("Examples/terminalexport.txt", "w") #debug code
-primaryfile = open("Examples/primaryexport.txt", "w") #debug code
-secondaryfile = open("Examples/secondaryexport.txt", "w") #debug code
+
 #Add import list of APT serials
 
 #Declare lists for writing kml
 points = []
 bestScores = dict()
 secondBestScores = dict()
+bestTwoGigScores = dict()
+bestFiveGigScores = dict()
 
 dataPoints = []
 
@@ -23,11 +23,10 @@ for dataPoint in dataPoints:
     bestExisting = None
     if dataPoint.PointNum in bestScores:
         bestExisting = bestScores[dataPoint.PointNum]
-
-    if bestExisting == None or bestExisting.Signal > dataPoint.Signal:
-        bestScores[dataPoint.PointNum] = dataPoint
-
-print(f'We have loaded [{len(bestScores)}] items with highest values')
+    
+    if int(dataPoint.Signal) !=0:
+        if (bestExisting == None or int(bestExisting.Signal) < int(dataPoint.Signal)):
+            bestScores[dataPoint.PointNum] = dataPoint
 
 
 # Get Second Best
@@ -37,9 +36,31 @@ for dataPoint in dataPoints:
     if dataPoint.PointNum in secondBestScores:
         secondBestExisting = secondBestScores[dataPoint.PointNum]
 
-    if  bestExisting.Signal != dataPoint.Signal and (secondBestExisting == None or secondBestExisting.Signal > dataPoint.Signal):
-        secondBestScores[dataPoint.PointNum] = dataPoint
+    if int(dataPoint.Signal) !=0:
+        if  int(bestExisting.Signal) != int(dataPoint.Signal) and (secondBestExisting == None or int(secondBestExisting.Signal) < int(dataPoint.Signal)):
+            secondBestScores[dataPoint.PointNum] = dataPoint
+
+#Get Best 2.4
+for dataPoint in dataPoints:
+    bestExisting = None
+    if dataPoint.PointNum in bestTwoGigScores:
+        bestExisting = bestTwoGigScores[dataPoint.PointNum]
     
+    if int(dataPoint.Signal) !=0 and int(0 < int(dataPoint.Channel) < 15):
+        if (bestExisting == None or int(bestExisting.Signal) < int(dataPoint.Signal)):
+            bestTwoGigScores[dataPoint.PointNum] = dataPoint
+
+
+#Get Best 5GHz
+for dataPoint in dataPoints:
+    bestExisting = None
+    if dataPoint.PointNum in bestFiveGigScores:
+        bestExisting = bestFiveGigScores[dataPoint.PointNum]
+    
+    if int(dataPoint.Signal) !=0 and int(35 < int(dataPoint.Channel) < 166):
+        if (bestExisting == None or int(bestExisting.Signal) < int(dataPoint.Signal)):
+            bestFiveGigScores[dataPoint.PointNum] = dataPoint
+
 
 #At this point I should have the best and second best signal levels saved in list of dicts called primaryAPT and secondaryAPT. This is the best and second best at these points, no matter the band or if they are to APT links
 

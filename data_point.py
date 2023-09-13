@@ -9,11 +9,11 @@ class DataPoint:
     Serial = None
     Name = None
     IP = None
-    Wlan = None
-    RSSI = None
+    WLAN = None
+    SNR = None
     Cost = None
     Signal = None
-    Mac = None
+    MAC = None
     Channel = None
     Frequency = None
     Timestamp = None

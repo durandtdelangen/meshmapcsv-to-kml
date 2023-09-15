@@ -86,14 +86,48 @@ for dataPoint in dataPoints:
         if (bestExisting == None or int(bestExisting.Signal) < int(dataPoint.Signal)):
             bestFiveGigScores[dataPoint.PointNum] = dataPoint
 
-for count in bestScores:
-    best = bestScores[str(count)]
-    secondBest = secondBestScores[str(count)] 
-    bestTwoGig = bestTwoGigScores[str(count)]
-    bestFiveGig = bestFiveGigScores[str(count)]
-    print(f'{best.PointNum} | Best {best.Signal}dBm >> {best.Serial} | Second Best {secondBest.Signal}dBm >> {secondBest.Serial} | Best 2.4GHz  {bestTwoGig.Signal}dBm >> {bestTwoGig.Serial} | Best 5GHz  {bestFiveGig.Signal}dBm >> {bestFiveGig.Serial}')
-
 #Write data into KML File
 
-
-
+#Write best connections to kml
+for count in bestScores:
+    score = bestScores[str(count)]
+    if int(score.Signal) > -65:
+        linesToWrite = ['<Placemark>\n',
+                        f'<name>{score.PointNum}</name>\n',
+                        '<styleUrl>#good_pin</styleUrl>\n',
+                        f'<Point><coordinates>{score.Longitude},{score.Latitude},0</coordinates></Point>\n',
+                        f'<description>Signal: {score.Signal}\nTo: {score.Name}\nOn: {score.WLAN}</description>\n',
+                        '</Placemark>\n']
+        print (linesToWrite)
+    elif -65 > int(score.Signal) >= -75:
+        linesToWrite = ['<Placemark>\n',
+                        f'<name>{score.PointNum}</name>\n',
+                        '<styleUrl>#acceptable_pin</styleUrl>\n',
+                        f'<Point><coordinates>{score.Longitude},{score.Latitude},0</coordinates></Point>\n',
+                        f'<description>Signal: {score.Signal}\nTo: {score.Name}\nOn: {score.WLAN}</description>\n',
+                        '</Placemark>\n']
+        print (linesToWrite)
+    elif -75 > int(score.Signal) >= -85:
+        linesToWrite = ['<Placemark>\n',
+                        f'<name>{score.PointNum}</name>\n',
+                        '<styleUrl>#fair_pin</styleUrl>\n',
+                        f'<Point><coordinates>{score.Longitude},{score.Latitude},0</coordinates></Point>\n',
+                        f'<description>Signal: {score.Signal}\nTo: {score.Name}\nOn: {score.WLAN}</description>\n',
+                        '</Placemark>\n']
+        print (linesToWrite)
+    elif -85 > int(score.Signal) >= -100:
+        linesToWrite = ['<Placemark>\n',
+                        f'<name>{score.PointNum}</name>\n',
+                        '<styleUrl>#bad_pin</styleUrl>\n',
+                        f'<Point><coordinates>{score.Longitude},{score.Latitude},0</coordinates></Point>\n',
+                        f'<description>Signal: {score.Signal}\nTo: {score.Name}\nOn: {score.WLAN}</description>\n',
+                        '</Placemark>\n']
+        print (linesToWrite)
+    else:
+        linesToWrite = ['<Placemark>\n',
+                        f'<name>{score.PointNum}</name>\n',
+                        '<styleUrl>#noconnect_pin</styleUrl>\n',
+                        f'<Point><coordinates>{score.Longitude},{score.Latitude},0</coordinates></Point>\n',
+                        f'<description>Signal: {score.Signal}\nTo: {score.Name}\nOn: {score.WLAN}</description>\n',
+                        '</Placemark>\n']
+        print (linesToWrite)

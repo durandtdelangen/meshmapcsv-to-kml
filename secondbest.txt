@@ -1,0 +1,4025 @@
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916994,-23.970259,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916994,-23.970272,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.91696,-23.97032,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916822,-23.97034,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPEP01
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916637,-23.970362,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT40
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916584,-23.97037,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT40
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916584,-23.97037,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916584,-23.97037,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916475,-23.970379,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT40
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.916304,-23.970383,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.915936,-23.970446,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.915792,-23.970467,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.915697,-23.970482,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.915655,-23.97049,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91553,-23.970514,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.915436,-23.97054,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.915314,-23.970566,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91519,-23.970592,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.915121,-23.97061,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.915121,-23.97061,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.915016,-23.970629,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914906,-23.970636,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914736,-23.970634,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914536,-23.970625,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914473,-23.970621,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914417,-23.970617,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914274,-23.970606,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.914146,-23.970589,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91404,-23.970568,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91401,-23.970564,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91401,-23.970564,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91401,-23.970564,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91401,-23.970564,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913956,-23.970552,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913773,-23.970528,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91353,-23.97049,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913416,-23.970474,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913324,-23.970484,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913177,-23.970642,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.913033,-23.970816,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.91279,-23.971046,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.912464,-23.971258,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.912115,-23.971466,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.911795,-23.971668,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.911547,-23.971888,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.911283,-23.972136,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.910961,-23.972322,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.910625,-23.972496,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP01
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.91032,-23.972727,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.910072,-23.973022,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.90986,-23.973354,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.90969,-23.973717,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.909525,-23.974094,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.909346,-23.97453,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.909164,-23.974985,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.909037,-23.975317,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.908716,-23.97569,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPEP01
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90846,-23.975695,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.90805,-23.975561,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.907755,-23.975471,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.907543,-23.975416,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.90747,-23.975397,0</coordinates></Point>
+<description>Signal: -47
+To: AIRAMPNMMCLDT72
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.907278,-23.975346,0</coordinates></Point>
+<description>Signal: -48
+To: AIRAMPNMMCLDT72
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.90699,-23.975271,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.906645,-23.975176,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.906282,-23.975079,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT103
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905897,-23.97498,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLDT103
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905504,-23.974915,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905205,-23.974977,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.905106,-23.975204,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.905216,-23.97552,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.905382,-23.975876,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.905573,-23.976221,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905798,-23.976562,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.906013,-23.976889,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.906118,-23.97721,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.906,-23.977486,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905842,-23.977606,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP04-2
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.905819,-23.977623,0</coordinates></Point>
+<description>Signal: -79
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.90582,-23.977623,0</coordinates></Point>
+<description>Signal: -79
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.90582,-23.977623,0</coordinates></Point>
+<description>Signal: -79
+To: AIRAMPNMMCLTESTBENCH
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90582,-23.977623,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90582,-23.977623,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90582,-23.977623,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905756,-23.977663,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905537,-23.977617,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905401,-23.977432,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.905214,-23.977125,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90499,-23.97679,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.904745,-23.976473,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.904484,-23.976173,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.904222,-23.975876,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.903973,-23.975582,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.903732,-23.975275,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.903482,-23.97497,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.903233,-23.974688,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.902985,-23.974407,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.902716,-23.97411,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.902431,-23.973791,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.90215,-23.973465,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.901869,-23.97314,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.901611,-23.972841,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.901394,-23.972586,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.901302,-23.972473,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.901237,-23.972391,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.901066,-23.972183,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.900808,-23.9719,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLDT57
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.900541,-23.971586,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.900272,-23.971285,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.900013,-23.971006,0</coordinates></Point>
+<description>Signal: -61
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.899744,-23.970705,0</coordinates></Point>
+<description>Signal: -68
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89949,-23.970566,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89918,-23.970669,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89887,-23.97087,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898579,-23.971052,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898323,-23.971231,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898142,-23.971455,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898153,-23.971722,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89828,-23.97199,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89827,-23.972286,0</coordinates></Point>
+<description>Signal: -63
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89803,-23.972548,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89769,-23.972742,0</coordinates></Point>
+<description>Signal: -60
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.897327,-23.972952,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.896952,-23.973188,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.896605,-23.973425,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.896276,-23.973673,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.895971,-23.973898,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.895699,-23.974092,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89544,-23.974169,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.895176,-23.97402,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.894978,-23.973732,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894735,-23.973412,0</coordinates></Point>
+<description>Signal: -68
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894396,-23.973125,0</coordinates></Point>
+<description>Signal: -68
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894083,-23.972923,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893564,-23.972654,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89312,-23.97256,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892574,-23.972586,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLDT95
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892254,-23.97261,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89179,-23.972555,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891302,-23.972471,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLDT104
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890812,-23.972391,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWL153
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89033,-23.972282,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWL153
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889908,-23.97206,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWL153
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889565,-23.971771,0</coordinates></Point>
+<description>Signal: -72
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889233,-23.971458,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888885,-23.971163,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888565,-23.97085,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88825,-23.970528,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887934,-23.970207,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887608,-23.969875,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887287,-23.96955,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.886969,-23.96922,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.886658,-23.968863,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.886358,-23.9685,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.886072,-23.968138,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885803,-23.967787,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885525,-23.96745,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885254,-23.967121,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885023,-23.966763,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.884787,-23.966272,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMAPEP02
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88466,-23.965958,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.884518,-23.965538,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.884396,-23.965124,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.884262,-23.9646,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.884192,-23.96429,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884079,-23.96392,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883987,-23.963572,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88405,-23.963213,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884209,-23.962847,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884382,-23.962496,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884504,-23.962143,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884438,-23.961792,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.8842,-23.96148,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883886,-23.9612,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.883556,-23.960936,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883263,-23.960634,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882957,-23.960312,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882664,-23.959991,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882399,-23.95972,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882029,-23.959618,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMADPSKID03
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.881638,-23.959574,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.881294,-23.959457,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881124,-23.95928,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88111,-23.958862,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881237,-23.958374,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88133,-23.95799,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881376,-23.957687,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881435,-23.957289,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881498,-23.956873,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881563,-23.956474,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881624,-23.956089,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMCLDT58
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881714,-23.955763,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881823,-23.95554,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88194,-23.955374,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882126,-23.9552,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882332,-23.955086,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882517,-23.955008,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88256,-23.95486,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882496,-23.954685,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882427,-23.954453,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88235,-23.954248,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFT10
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88229,-23.95406,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFT10
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882261,-23.953848,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFT10
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88229,-23.953676,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT10
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882347,-23.953411,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882395,-23.95321,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882404,-23.953062,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882515,-23.95306,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLCON937
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882462,-23.953152,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLCON937
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882338,-23.953417,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.882303,-23.95361,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88227,-23.95391,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882313,-23.9541,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88235,-23.954239,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882439,-23.954441,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882504,-23.954685,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLWT325
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88257,-23.95489,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882494,-23.955048,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882275,-23.95516,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882004,-23.955372,0</coordinates></Point>
+<description>Signal: -66
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881805,-23.955677,0</coordinates></Point>
+<description>Signal: -66
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.881733,-23.956041,0</coordinates></Point>
+<description>Signal: -64
+To: PEREGRINE_SKID
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88168,-23.956442,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881618,-23.956854,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881535,-23.95729,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881453,-23.95771,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881386,-23.9581,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881346,-23.958374,0</coordinates></Point>
+<description>Signal: -73
+To: PEREGRINE_SKID
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881277,-23.958801,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMMCLDT58
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881227,-23.95903,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMADPSKID03
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881294,-23.95933,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMADPSKID03
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881548,-23.959415,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMADPSKID03
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.881935,-23.959469,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882166,-23.959538,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMADPSKID03
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.882423,-23.959677,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882715,-23.959951,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.882914,-23.960123,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883188,-23.960354,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883472,-23.960571,0</coordinates></Point>
+<description>Signal: -56
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883736,-23.960812,0</coordinates></Point>
+<description>Signal: -56
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.883984,-23.96104,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884216,-23.961273,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.884436,-23.961544,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88457,-23.96184,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88461,-23.96216,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884533,-23.96249,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMADPSKID03
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884398,-23.962837,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88428,-23.96317,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT61
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884182,-23.963419,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLDT61
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884151,-23.963558,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884237,-23.963764,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88437,-23.964045,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884438,-23.964384,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884485,-23.964745,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884542,-23.9651,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.884634,-23.965452,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88474,-23.965794,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.884903,-23.9662,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT73
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.885088,-23.966516,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885244,-23.966738,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMADPSKID11 - Nitro Plus
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.885475,-23.967045,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.885717,-23.967373,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.885983,-23.967703,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.886244,-23.968023,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.886496,-23.968344,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88676,-23.96865,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLDT79
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887041,-23.968945,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLWL153
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887323,-23.969246,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887615,-23.969559,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887909,-23.969875,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888199,-23.970163,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPIBIS02
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888498,-23.970444,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDB270
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888796,-23.97072,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88908,-23.971014,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889378,-23.971306,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889694,-23.971601,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890045,-23.971872,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPIBIS02
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890446,-23.972063,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLWL153
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890896,-23.97219,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891258,-23.97228,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891888,-23.972414,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892248,-23.972446,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892784,-23.972403,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.893282,-23.972435,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.893658,-23.972534,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89393,-23.972641,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894363,-23.972895,0</coordinates></Point>
+<description>Signal: -66
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89459,-23.97308,0</coordinates></Point>
+<description>Signal: -63
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.894861,-23.973347,0</coordinates></Point>
+<description>Signal: -63
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.89511,-23.973602,0</coordinates></Point>
+<description>Signal: -65
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895288,-23.973846,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.8954,-23.97396,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895546,-23.973972,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895744,-23.97384,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.895998,-23.973644,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.896263,-23.973436,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896545,-23.973234,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896849,-23.973036,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.897173,-23.972832,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.897493,-23.97262,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.897787,-23.972399,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.898006,-23.972126,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.897985,-23.971794,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89788,-23.971481,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898,-23.9712,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898232,-23.971046,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898746,-23.970737,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPFTBIGMIKE
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89901,-23.970606,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.899279,-23.970446,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89939,-23.970371,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89953,-23.97034,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89977,-23.970413,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.900007,-23.970509,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.900236,-23.970388,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.900303,-23.970098,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.900167,-23.96979,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMADPSKID16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.899988,-23.96944,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.899782,-23.969067,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.899574,-23.968664,0</coordinates></Point>
+<description>Signal: -75
+To: AIRAMPNMFAPEP06
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.899368,-23.968252,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.899168,-23.967844,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.898966,-23.967455,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.898767,-23.967083,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.898584,-23.966722,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.898397,-23.966347,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.898214,-23.965956,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.898031,-23.96556,0</coordinates></Point>
+<description>Signal: -76
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.89783,-23.965155,0</coordinates></Point>
+<description>Signal: -76
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.897638,-23.96477,0</coordinates></Point>
+<description>Signal: -76
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.89746,-23.964403,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.897226,-23.963923,0</coordinates></Point>
+<description>Signal: -77
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.897087,-23.963629,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89685,-23.96313,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLGROUNDPROBETRAILER02
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896717,-23.962852,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896547,-23.962488,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89637,-23.962132,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896187,-23.961771,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFT07
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.896002,-23.961407,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895823,-23.961044,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895634,-23.960686,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895441,-23.960333,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89524,-23.959978,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.895039,-23.959623,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894833,-23.959274,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894625,-23.958931,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894423,-23.95857,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894218,-23.958218,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMBANDIHAUL_Shiftchange
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.894022,-23.95786,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPFT16-2
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893803,-23.957497,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFT16-2
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893618,-23.957216,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFT16-2
+On: wlan1</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.893389,-23.956835,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89316,-23.956457,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892878,-23.95598,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892706,-23.955692,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892477,-23.955305,0</coordinates></Point>
+<description>Signal: -54
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892202,-23.954853,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891914,-23.954386,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89168,-23.954018,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891502,-23.95375,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891281,-23.953411,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891071,-23.953094,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.890862,-23.95278,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.890657,-23.952477,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.890497,-23.952246,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.890394,-23.95213,0</coordinates></Point>
+<description>Signal: -78
+To: AIRAMPNMMCLDT47
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890173,-23.952124,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMAPSKID24
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889875,-23.95223,0</coordinates></Point>
+<description>Signal: -67
+To: PEREGRINE_SKID
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.889523,-23.952341,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.889166,-23.952457,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888811,-23.952585,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888453,-23.952723,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLCON919
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888096,-23.952854,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887775,-23.952976,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887548,-23.953068,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPCCTV6
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887156,-23.953236,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLCON919
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886845,-23.953375,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.886538,-23.953533,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886236,-23.953709,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886032,-23.953856,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885778,-23.95416,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885641,-23.954525,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885592,-23.954737,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885555,-23.95499,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88557,-23.955267,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885628,-23.955595,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLFS109
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885698,-23.95596,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.885754,-23.956327,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88579,-23.956694,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885862,-23.957045,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.885975,-23.957378,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88616,-23.957684,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMFAPFT 13
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88639,-23.95795,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFT16
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88661,-23.958223,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88683,-23.958527,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88702,-23.958838,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887161,-23.959164,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887276,-23.959488,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887365,-23.959835,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887426,-23.960121,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.88746,-23.9606,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887451,-23.960884,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887447,-23.96124,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887432,-23.961693,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887419,-23.961933,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887323,-23.962393,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887232,-23.962652,0</coordinates></Point>
+<description>Signal: -68
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.887178,-23.962812,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.887114,-23.963102,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887074,-23.963297,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.887024,-23.96354,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.88696,-23.963793,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886896,-23.964035,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886787,-23.96427,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886635,-23.964478,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886497,-23.96469,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMFAPTRAILER 05
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886425,-23.96487,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88641,-23.964998,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886406,-23.965141,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886404,-23.965343,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886473,-23.96561,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886578,-23.965864,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886654,-23.966002,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966036,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -51
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -53
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886673,-23.966038,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886675,-23.966064,0</coordinates></Point>
+<description>Signal: -52
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886726,-23.966139,0</coordinates></Point>
+<description>Signal: -51
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886797,-23.966238,0</coordinates></Point>
+<description>Signal: -51
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886879,-23.966328,0</coordinates></Point>
+<description>Signal: -44
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886948,-23.966394,0</coordinates></Point>
+<description>Signal: -41
+To: AIRAMPNMMCLDR1951
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886982,-23.966429,0</coordinates></Point>
+<description>Signal: -41
+To: AIRAMPNMMCLDR1951
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -46
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -42
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -45
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -34
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -34
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -43
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88698,-23.96643,0</coordinates></Point>
+<description>Signal: -41
+To: AIRAMPNMMCLDR1951
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886986,-23.966442,0</coordinates></Point>
+<description>Signal: -46
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886986,-23.966494,0</coordinates></Point>
+<description>Signal: -40
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886822,-23.966385,0</coordinates></Point>
+<description>Signal: -40
+To: AIRAMPNMMCLDML294
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886686,-23.966097,0</coordinates></Point>
+<description>Signal: -46
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886557,-23.965857,0</coordinates></Point>
+<description>Signal: -54
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886408,-23.965553,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMCLDR1951
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.8863,-23.965275,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88624,-23.96501,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886251,-23.964771,0</coordinates></Point>
+<description>Signal: -58
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886417,-23.964506,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLDR1951
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886639,-23.964306,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLDT54
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.886839,-23.964085,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887007,-23.96387,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88709,-23.96373,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887186,-23.963566,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887276,-23.963385,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887356,-23.963167,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887453,-23.962975,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88753,-23.962831,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887623,-23.96268,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887709,-23.962616,0</coordinates></Point>
+<description>Signal: -57
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887798,-23.962664,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887873,-23.962694,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887924,-23.96268,0</coordinates></Point>
+<description>Signal: -54
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -57
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -56
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -56
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -56
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -56
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -55
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -58
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887945,-23.962654,0</coordinates></Point>
+<description>Signal: -59
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887955,-23.962614,0</coordinates></Point>
+<description>Signal: -60
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887941,-23.962582,0</coordinates></Point>
+<description>Signal: -62
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887917,-23.962523,0</coordinates></Point>
+<description>Signal: -62
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.887957,-23.962347,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888084,-23.962124,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88816,-23.961908,0</coordinates></Point>
+<description>Signal: -63
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888224,-23.961695,0</coordinates></Point>
+<description>Signal: -62
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88826,-23.961481,0</coordinates></Point>
+<description>Signal: -64
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888288,-23.961275,0</coordinates></Point>
+<description>Signal: -65
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888319,-23.961016,0</coordinates></Point>
+<description>Signal: -65
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888344,-23.96073,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888384,-23.960487,0</coordinates></Point>
+<description>Signal: -66
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888365,-23.96026,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888348,-23.960062,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888323,-23.959854,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888296,-23.959682,0</coordinates></Point>
+<description>Signal: -57
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888268,-23.959538,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88824,-23.959415,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888212,-23.959282,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888186,-23.95918,0</coordinates></Point>
+<description>Signal: -63
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888166,-23.959108,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88814,-23.958998,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888119,-23.958904,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888088,-23.95882,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888063,-23.95872,0</coordinates></Point>
+<description>Signal: -54
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888042,-23.958578,0</coordinates></Point>
+<description>Signal: -50
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888014,-23.958412,0</coordinates></Point>
+<description>Signal: -50
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.887968,-23.958246,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.88791,-23.958084,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.887918,-23.957893,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888014,-23.957743,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888176,-23.957659,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888418,-23.957705,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.888645,-23.957905,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.888817,-23.958138,0</coordinates></Point>
+<description>Signal: -64
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#noconnect_pin</styleUrl>
+<Point><coordinates>28.888964,-23.95831,0</coordinates></Point>
+<description>Signal: -65
+To: AIRAMPNMMCLFS110
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.889137,-23.958431,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.889376,-23.958506,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.889626,-23.95851,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.889866,-23.95844,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89001,-23.95836,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890085,-23.958298,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890234,-23.958202,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89038,-23.958145,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPFT07-02
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890617,-23.95815,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890753,-23.958202,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.890873,-23.958265,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMFAPFT13-3
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891052,-23.958403,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89124,-23.958616,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891447,-23.95888,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT78
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89165,-23.959146,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLDT41
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.891853,-23.959412,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892065,-23.959702,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMFAPDPSKID19
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892296,-23.960016,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892574,-23.960356,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892818,-23.960659,0</coordinates></Point>
+<description>Signal: -73
+To: AIRAMPNMMCLDT78
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893032,-23.960999,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893202,-23.961363,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893326,-23.961754,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893448,-23.962145,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT78
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893566,-23.96252,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT78
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893682,-23.962927,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLFS117
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893776,-23.963331,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLFS117
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893847,-23.963696,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLFS114
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893936,-23.964075,0</coordinates></Point>
+<description>Signal: -70
+To: AIRAMPNMMCLDT57
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894037,-23.964478,0</coordinates></Point>
+<description>Signal: -72
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894108,-23.964842,0</coordinates></Point>
+<description>Signal: -72
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894184,-23.965235,0</coordinates></Point>
+<description>Signal: -73
+To: 
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894293,-23.965654,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#fair_pin</styleUrl>
+<Point><coordinates>28.894373,-23.966011,0</coordinates></Point>
+<description>Signal: -76
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.894342,-23.966236,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMADPTRL003
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.8941,-23.966385,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893904,-23.966234,0</coordinates></Point>
+<description>Signal: -74
+To: AIRAMPNMMCLDT80
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893814,-23.96607,0</coordinates></Point>
+<description>Signal: -72
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893661,-23.965689,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893513,-23.965355,0</coordinates></Point>
+<description>Signal: -71
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893408,-23.96512,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893276,-23.964798,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893145,-23.964481,0</coordinates></Point>
+<description>Signal: -69
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.893017,-23.96418,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.89288,-23.963928,0</coordinates></Point>
+<description>Signal: -66
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#acceptable_pin</styleUrl>
+<Point><coordinates>28.892742,-23.963665,0</coordinates></Point>
+<description>Signal: -67
+To: AIRAMPNMMCLPV308
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892574,-23.963371,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMCLDR141
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892416,-23.963104,0</coordinates></Point>
+<description>Signal: -62
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892296,-23.962917,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892172,-23.9628,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.892065,-23.962774,0</coordinates></Point>
+<description>Signal: -61
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89203,-23.962786,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.89201,-23.962788,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLST250
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.891966,-23.962791,0</coordinates></Point>
+<description>Signal: -60
+To: AIRAMPNMMCLST250
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.891912,-23.962803,0</coordinates></Point>
+<description>Signal: -59
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>
+<Placemark>
+<styleUrl>#good_pin</styleUrl>
+<Point><coordinates>28.891912,-23.962803,0</coordinates></Point>
+<description>Signal: -58
+To: AIRAMPNMMAPADPSKD25
+On: wlan0</description>
+</Placemark>

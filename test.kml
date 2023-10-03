@@ -1,0 +1,131 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Style id="good_line">
+            <LineStyle>
+                <color>ff00ff00</color>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="acceptable_line">
+            <LineStyle>
+                <color>ff00ffff</color>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="fair_line">
+            <LineStyle>
+                <color>ff006ef6</color>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="bad_line">
+            <LineStyle>
+                <color>ff0000ff</color>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="noconnect_line">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="good_pin">
+            <IconStyle>
+                <color>ff0000ff</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>        
+        </Style>
+        <Style id="acceptable_pin">
+            <IconStyle>
+                <color>ff00ffff</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>        
+        </Style>
+        <Style id="fair_pin">
+            <IconStyle>
+                <color>ff006ef6</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>        
+        </Style>
+        <Style id="bad_pin">
+            <IconStyle>
+                <color>ff0000ff</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>        
+        </Style>
+        <Style id="noconnect_pin">
+            <IconStyle>
+                <color>ff000000</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>        
+        </Style>
+        <Folder>
+            <name>Examples</name>
+            <Placemark>
+                <name>Good</name>
+                <styleUrl>#good_pin</styleUrl>
+                <Point>
+                    <coordinates>28.30573393448345,-25.74752050280749,0</coordinates>
+                </Point>
+                <description>Attached to the ground. Intelligently places itself at the
+          height of the underlying terrain.</description>
+            </Placemark>
+            <Placemark>
+                <name>Acceptable</name>
+                <styleUrl>#acceptable_pin</styleUrl>
+                <Point>
+                    <coordinates>28.30589764873514,-25.74740279713367,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Fair</name>
+                <styleUrl>#fair_pin</styleUrl>
+                <Point>
+                    <coordinates>28.30607260067914,-25.74726721869621,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Bad</name>
+                <styleUrl>#bad_pin</styleUrl>
+                <Point>
+                    <coordinates>28.30628337453788,-25.74712512794562,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>No Connection</name>
+                <styleUrl>#noconnect_pin</styleUrl>
+                <Point>
+                    <coordinates>28.30646727311611,-25.74700423262289,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+        <name>Primary Coverage</name>
+        </Folder>
+        <Folder>
+        <name>Secondary Coverage</name>
+        </Folder>
+        <Folder>
+        <name>2.4GHz Coverage</name>
+        </Folder>
+        <Folder>
+        <name>5GHz Coverage</name>
+        </Folder>
+    </Document>
+</kml>

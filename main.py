@@ -1,5 +1,5 @@
 import csv
-
+from xml.dom import minidom
 from data_point import DataPoint
 
 #Open CSV Files
@@ -87,6 +87,13 @@ for dataPoint in dataPoints:
             bestFiveGigScores[dataPoint.PointNum] = dataPoint
 
 #Write data into KML File
+
+kmlDoc = minidom.Document()
+kmlElement = kmlDoc.createElementNS('http://earth.google.com/kml/2.2', 'kml')
+kmlElement.setAttribute('xmlns','http://earth.google.com/kml/2.2')
+kmlElement = kmlDoc.appendChild(kmlElement)
+documentElement = kmlDoc.createElement('Document')
+documentElement = kmlElement.appendChild(documentElement)
 
 #Write best connections to kml
 for count in bestScores:
